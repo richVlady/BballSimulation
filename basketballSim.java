@@ -1,6 +1,6 @@
 //**********************
 //  AP CSP NBA simulation
-//   Edmond Poon
+//  Richard Vlady
 // simulate an NBC season according to the factors of the user
 // Referece File (uses "Team", "Game" , "Season" object files)
 //*********************
